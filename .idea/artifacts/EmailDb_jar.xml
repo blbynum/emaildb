@@ -1,0 +1,36 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="EmailDb:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/EmailDb_jar</output-path>
+    <root id="archive" name="EmailDb.jar">
+      <element id="module-output" name="EmailDb" />
+      <element id="extracted-dir" path="C:/Dependencies/mysql-connector-java-5.1.43/mysql-connector-java-5.1.43-bin.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Dependencies/poi-3.16/lib/junit-4.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Dependencies/poi-3.16/lib/log4j-1.2.17.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Dependencies/poi-3.16/lib/commons-codec-1.10.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Dependencies/poi-3.16/lib/commons-logging-1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Dependencies/poi-3.16/lib/commons-collections4-4.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Dependencies/poi-3.16/ooxml-lib/curvesapi-1.04.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Dependencies/poi-3.16/ooxml-lib/xmlbeans-2.6.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Dependencies/poi-3.16/poi-3.16.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Dependencies/poi-3.16/poi-examples-3.16.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Dependencies/poi-3.16/poi-excelant-3.16.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Dependencies/poi-3.16/poi-ooxml-3.16.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Dependencies/poi-3.16/poi-ooxml-schemas-3.16.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Dependencies/poi-3.16/poi-scratchpad-3.16.jar" path-in-jar="/" />
+      <element id="file-copy" path="C:/Dependencies/poi-3.16/lib/junit-4.12.jar" />
+      <element id="file-copy" path="C:/Dependencies/poi-3.16/lib/log4j-1.2.17.jar" />
+      <element id="file-copy" path="C:/Dependencies/poi-3.16/lib/commons-codec-1.10.jar" />
+      <element id="file-copy" path="C:/Dependencies/poi-3.16/lib/commons-logging-1.2.jar" />
+      <element id="file-copy" path="C:/Dependencies/poi-3.16/lib/commons-collections4-4.1.jar" />
+      <element id="file-copy" path="C:/Dependencies/poi-3.16/ooxml-lib/curvesapi-1.04.jar" />
+      <element id="file-copy" path="C:/Dependencies/poi-3.16/ooxml-lib/xmlbeans-2.6.0.jar" />
+      <element id="file-copy" path="C:/Dependencies/poi-3.16/poi-3.16.jar" />
+      <element id="file-copy" path="C:/Dependencies/poi-3.16/poi-examples-3.16.jar" />
+      <element id="file-copy" path="C:/Dependencies/poi-3.16/poi-excelant-3.16.jar" />
+      <element id="file-copy" path="C:/Dependencies/poi-3.16/poi-ooxml-3.16.jar" />
+      <element id="file-copy" path="C:/Dependencies/poi-3.16/poi-ooxml-schemas-3.16.jar" />
+      <element id="file-copy" path="C:/Dependencies/poi-3.16/poi-scratchpad-3.16.jar" />
+      <element id="file-copy" path="C:/Dependencies/mysql-connector-java-5.1.43/mysql-connector-java-5.1.43-bin.jar" />
+    </root>
+  </artifact>
+</component>
